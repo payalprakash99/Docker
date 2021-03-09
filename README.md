@@ -2,7 +2,7 @@
 
 # Building our Docker Image
 
-docker build -t node-docker .
+docker build -t  node-docker .
 
 # Running our Docker Image 
 

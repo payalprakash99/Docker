@@ -1,5 +1,4 @@
-# Docker
-# Docker-izing a NodeJS express JS API
+# Docker — Docker-izing a NodeJS express JS API
 
 # Building our Docker Image
 
